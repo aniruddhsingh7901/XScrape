@@ -749,3 +749,23 @@
 2025-11-06T14:24:49:   Tweets seen:       9224
 2025-11-06T14:24:49:   DataEntities kept: 9224
 2025-11-06T14:24:49:   DB file:           SqliteMinerStorage.sqlite
+2025-11-06T14:26:29: Wrote trending snapshot to /home/anirudh/Desktop/data-universe-final-Server/scripts/cache/twitter_trending.json
+2025-11-06T14:26:29: Wrote 85 twitter targets to /home/anirudh/Desktop/data-universe-final-Server/scripts/cache/twitter_targets.json
+2025-11-06T14:26:29: ✅ Twitter targets/trending updated.
+2025-11-06T14:26:32: [1/85] Query: #crypto -filter:retweets since:2025-10-07 until:2025-11-06 (limit 100)
+2025-11-06T14:27:00: [2/85] Query: #btc -filter:retweets since:2025-10-07 until:2025-11-06 (limit 100)
+2025-11-06T14:27:26: [3/85] Query: #bitcoin -filter:retweets since:2025-10-07 until:2025-11-06 (limit 100)
+2025-11-06T14:27:49: [4/85] Query: #yahooニュース -filter:retweets since:2025-10-07 until:2025-11-06 (limit 100)
+2025-11-06T14:28:01: [5/85] Query: #btcusd -filter:retweets since:2025-10-07 until:2025-11-06 (limit 100)
+2025-11-06T14:28:04: [6/85] Query: #trade -filter:retweets since:2025-10-07 until:2025-11-06 (limit 100)
+2025-11-06T14:28:25: [7/85] Query: #shib -filter:retweets since:2025-10-07 until:2025-11-06 (limit 100)
+2025-11-06T14:28:33: [8/85] Query: #pips -filter:retweets since:2025-10-07 until:2025-11-06 (limit 100)
+2025-11-06T14:28:43: [9/85] Query: #x624 -filter:retweets since:2025-10-07 until:2025-11-06 (limit 100)
+2025-11-06T14:28:46: [10/85] Query: #ardyz -filter:retweets since:2025-10-07 until:2025-11-06 (limit 100)
+2025-11-06T14:28:59: [11/85] Query: #trump -filter:retweets since:2025-10-07 until:2025-11-06 (limit 100)
+2025-11-06T14:29:11: [12/85] Query: #bluai -filter:retweets since:2025-10-07 until:2025-11-06 (limit 100)
+2025-11-06T14:29:25: [13/85] Query: #logistica -filter:retweets since:2025-10-07 until:2025-11-06 (limit 100)
+2025-11-06T14:30:01: [14/85] Query: #sangiuliano -filter:retweets since:2025-10-07 until:2025-11-06 (limit 100)
+2025-11-06T14:30:23: [15/85] Query: #souzanfatayer -filter:retweets since:2025-10-07 until:2025-11-06 (limit 100)
+2025-11-06T14:30:40: [16/85] Query: #ยูทูปพรีเมี่ยมราคาถูก -filter:retweets since:2025-10-07 until:2025-11-06 (limit 100)
+2025-11-06T14:30:52: [17/85] Query: #หารyoutubepremium -filter:retweets since:2025-10-07 until:2025-11-06 (limit 100)
