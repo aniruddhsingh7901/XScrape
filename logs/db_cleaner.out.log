@@ -1,0 +1,359 @@
+2025-09-21T03:32:02: [INFO] Now (UTC):      2025-09-20T22:02:02.590455+00:00
+2025-09-21T03:32:02: [INFO] Max age (days): 30
+2025-09-21T03:32:02: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:32:03: [INFO] Total rows: 103265
+2025-09-21T03:32:03: [INFO] Rows older than 30d: 875
+2025-09-21T03:32:03: [OK] Deleted rows: 875
+2025-09-21T03:32:03: [OK] Rows remaining: 102390
+2025-09-21T03:32:03: [INFO] Now (UTC):      2025-09-20T22:02:03.808933+00:00
+2025-09-21T03:32:03: [INFO] Max age (days): 30
+2025-09-21T03:32:03: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:32:03: [INFO] Total rows: 102390
+2025-09-21T03:32:03: [INFO] Rows older than 30d: 0
+2025-09-21T03:32:03: [OK] Deleted rows: 0
+2025-09-21T03:32:03: [OK] Rows remaining: 102390
+2025-09-21T03:32:03: [INFO] Now (UTC):      2025-09-20T22:02:03.876626+00:00
+2025-09-21T03:32:03: [INFO] Max age (days): 30
+2025-09-21T03:32:03: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:32:03: [INFO] Total rows: 102390
+2025-09-21T03:32:03: [INFO] Rows older than 30d: 0
+2025-09-21T03:32:03: [OK] Deleted rows: 0
+2025-09-21T03:32:03: [OK] Rows remaining: 102390
+2025-09-21T03:32:03: [INFO] Now (UTC):      2025-09-20T22:02:03.929887+00:00
+2025-09-21T03:32:03: [INFO] Max age (days): 30
+2025-09-21T03:32:03: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:32:03: [INFO] Total rows: 102390
+2025-09-21T03:32:03: [INFO] Rows older than 30d: 0
+2025-09-21T03:32:03: [OK] Deleted rows: 0
+2025-09-21T03:32:03: [OK] Rows remaining: 102390
+2025-09-21T03:32:03: [INFO] Now (UTC):      2025-09-20T22:02:03.984756+00:00
+2025-09-21T03:32:03: [INFO] Max age (days): 30
+2025-09-21T03:32:03: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:32:03: [INFO] Total rows: 102390
+2025-09-21T03:32:03: [INFO] Rows older than 30d: 0
+2025-09-21T03:32:03: [OK] Deleted rows: 0
+2025-09-21T03:32:03: [OK] Rows remaining: 102390
+2025-09-21T03:32:04: [INFO] Now (UTC):      2025-09-20T22:02:04.028777+00:00
+2025-09-21T03:32:04: [INFO] Max age (days): 30
+2025-09-21T03:32:04: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:32:04: [INFO] Total rows: 102390
+2025-09-21T03:32:04: [INFO] Rows older than 30d: 0
+2025-09-21T03:32:04: [OK] Deleted rows: 0
+2025-09-21T03:32:04: [OK] Rows remaining: 102390
+2025-09-21T03:32:04: [INFO] Now (UTC):      2025-09-20T22:02:04.070249+00:00
+2025-09-21T03:32:04: [INFO] Max age (days): 30
+2025-09-21T03:32:04: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:32:04: [INFO] Total rows: 102390
+2025-09-21T03:32:04: [INFO] Rows older than 30d: 0
+2025-09-21T03:32:04: [OK] Deleted rows: 0
+2025-09-21T03:32:04: [OK] Rows remaining: 102390
+2025-09-21T03:32:04: [INFO] Now (UTC):      2025-09-20T22:02:04.114402+00:00
+2025-09-21T03:32:04: [INFO] Max age (days): 30
+2025-09-21T03:32:04: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:32:04: [INFO] Total rows: 102390
+2025-09-21T03:32:04: [INFO] Rows older than 30d: 0
+2025-09-21T03:32:04: [OK] Deleted rows: 0
+2025-09-21T03:32:04: [OK] Rows remaining: 102390
+2025-09-21T03:32:04: [INFO] Now (UTC):      2025-09-20T22:02:04.158506+00:00
+2025-09-21T03:32:04: [INFO] Max age (days): 30
+2025-09-21T03:32:04: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:32:04: [INFO] Total rows: 102390
+2025-09-21T03:32:04: [INFO] Rows older than 30d: 0
+2025-09-21T03:32:04: [OK] Deleted rows: 0
+2025-09-21T03:32:04: [OK] Rows remaining: 102390
+2025-09-21T03:32:04: [INFO] Now (UTC):      2025-09-20T22:02:04.203921+00:00
+2025-09-21T03:32:04: [INFO] Max age (days): 30
+2025-09-21T03:32:04: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:32:04: [INFO] Total rows: 102390
+2025-09-21T03:32:04: [INFO] Rows older than 30d: 0
+2025-09-21T03:32:04: [OK] Deleted rows: 0
+2025-09-21T03:32:04: [OK] Rows remaining: 102390
+2025-09-21T03:32:04: [INFO] Now (UTC):      2025-09-20T22:02:04.250225+00:00
+2025-09-21T03:32:04: [INFO] Max age (days): 30
+2025-09-21T03:32:04: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:32:04: [INFO] Total rows: 102390
+2025-09-21T03:32:04: [INFO] Rows older than 30d: 0
+2025-09-21T03:32:04: [OK] Deleted rows: 0
+2025-09-21T03:32:04: [OK] Rows remaining: 102390
+2025-09-21T03:32:04: [INFO] Now (UTC):      2025-09-20T22:02:04.302328+00:00
+2025-09-21T03:32:04: [INFO] Max age (days): 30
+2025-09-21T03:32:04: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:32:04: [INFO] Total rows: 102390
+2025-09-21T03:32:04: [INFO] Rows older than 30d: 0
+2025-09-21T03:32:04: [OK] Deleted rows: 0
+2025-09-21T03:32:04: [OK] Rows remaining: 102390
+2025-09-21T03:32:04: [INFO] Now (UTC):      2025-09-20T22:02:04.371592+00:00
+2025-09-21T03:32:04: [INFO] Max age (days): 30
+2025-09-21T03:32:04: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:32:04: [INFO] Total rows: 102390
+2025-09-21T03:32:04: [INFO] Rows older than 30d: 0
+2025-09-21T03:32:04: [OK] Deleted rows: 0
+2025-09-21T03:32:04: [OK] Rows remaining: 102390
+2025-09-21T03:32:04: [INFO] Now (UTC):      2025-09-20T22:02:04.432537+00:00
+2025-09-21T03:32:04: [INFO] Max age (days): 30
+2025-09-21T03:32:04: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:32:04: [INFO] Total rows: 102390
+2025-09-21T03:32:04: [INFO] Rows older than 30d: 0
+2025-09-21T03:32:04: [OK] Deleted rows: 0
+2025-09-21T03:32:04: [OK] Rows remaining: 102390
+2025-09-21T03:32:04: [INFO] Now (UTC):      2025-09-20T22:02:04.487714+00:00
+2025-09-21T03:32:04: [INFO] Max age (days): 30
+2025-09-21T03:32:04: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:32:04: [INFO] Total rows: 102390
+2025-09-21T03:32:04: [INFO] Rows older than 30d: 0
+2025-09-21T03:32:04: [OK] Deleted rows: 0
+2025-09-21T03:32:04: [OK] Rows remaining: 102390
+2025-09-21T03:32:04: [INFO] Now (UTC):      2025-09-20T22:02:04.538489+00:00
+2025-09-21T03:32:04: [INFO] Max age (days): 30
+2025-09-21T03:32:04: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:32:04: [INFO] Total rows: 102390
+2025-09-21T03:32:04: [INFO] Rows older than 30d: 0
+2025-09-21T03:32:04: [OK] Deleted rows: 0
+2025-09-21T03:32:04: [OK] Rows remaining: 102390
+2025-09-21T03:32:04: [INFO] Now (UTC):      2025-09-20T22:02:04.585684+00:00
+2025-09-21T03:32:04: [INFO] Max age (days): 30
+2025-09-21T03:32:04: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:32:04: [INFO] Total rows: 102390
+2025-09-21T03:32:04: [INFO] Rows older than 30d: 0
+2025-09-21T03:32:04: [OK] Deleted rows: 0
+2025-09-21T03:32:04: [OK] Rows remaining: 102390
+2025-09-21T03:37:35: [INFO] Now (UTC):      2025-09-20T22:07:35.816280+00:00
+2025-09-21T03:37:35: [INFO] Max age (days): 30
+2025-09-21T03:37:35: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:37:35: [INFO] Total rows: 105995
+2025-09-21T03:37:35: [INFO] Rows older than 30d: 0
+2025-09-21T03:37:35: [OK] Deleted rows: 0
+2025-09-21T03:37:35: [OK] Rows remaining: 105995
+2025-09-21T03:37:35: [INFO] Now (UTC):      2025-09-20T22:07:35.869292+00:00
+2025-09-21T03:37:35: [INFO] Max age (days): 30
+2025-09-21T03:37:35: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:37:35: [INFO] Total rows: 105995
+2025-09-21T03:37:35: [INFO] Rows older than 30d: 0
+2025-09-21T03:37:35: [OK] Deleted rows: 0
+2025-09-21T03:37:35: [OK] Rows remaining: 105995
+2025-09-21T03:37:35: [INFO] Now (UTC):      2025-09-20T22:07:35.921862+00:00
+2025-09-21T03:37:35: [INFO] Max age (days): 30
+2025-09-21T03:37:35: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:37:35: [INFO] Total rows: 105995
+2025-09-21T03:37:35: [INFO] Rows older than 30d: 0
+2025-09-21T03:37:35: [OK] Deleted rows: 0
+2025-09-21T03:37:35: [OK] Rows remaining: 105995
+2025-09-21T03:37:35: [INFO] Now (UTC):      2025-09-20T22:07:35.971633+00:00
+2025-09-21T03:37:35: [INFO] Max age (days): 30
+2025-09-21T03:37:35: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:37:35: [INFO] Total rows: 105995
+2025-09-21T03:37:35: [INFO] Rows older than 30d: 0
+2025-09-21T03:37:35: [OK] Deleted rows: 0
+2025-09-21T03:37:35: [OK] Rows remaining: 105995
+2025-09-21T03:37:36: [INFO] Now (UTC):      2025-09-20T22:07:36.023265+00:00
+2025-09-21T03:37:36: [INFO] Max age (days): 30
+2025-09-21T03:37:36: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:37:36: [INFO] Total rows: 105995
+2025-09-21T03:37:36: [INFO] Rows older than 30d: 0
+2025-09-21T03:37:36: [OK] Deleted rows: 0
+2025-09-21T03:37:36: [OK] Rows remaining: 105995
+2025-09-21T03:37:36: [INFO] Now (UTC):      2025-09-20T22:07:36.084522+00:00
+2025-09-21T03:37:36: [INFO] Max age (days): 30
+2025-09-21T03:37:36: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:37:36: [INFO] Total rows: 105995
+2025-09-21T03:37:36: [INFO] Rows older than 30d: 0
+2025-09-21T03:37:36: [OK] Deleted rows: 0
+2025-09-21T03:37:36: [OK] Rows remaining: 105995
+2025-09-21T03:37:36: [INFO] Now (UTC):      2025-09-20T22:07:36.156739+00:00
+2025-09-21T03:37:36: [INFO] Max age (days): 30
+2025-09-21T03:37:36: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:37:36: [INFO] Total rows: 105995
+2025-09-21T03:37:36: [INFO] Rows older than 30d: 0
+2025-09-21T03:37:36: [OK] Deleted rows: 0
+2025-09-21T03:37:36: [OK] Rows remaining: 105995
+2025-09-21T03:37:36: [INFO] Now (UTC):      2025-09-20T22:07:36.246149+00:00
+2025-09-21T03:37:36: [INFO] Max age (days): 30
+2025-09-21T03:37:36: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:37:36: [INFO] Total rows: 105995
+2025-09-21T03:37:36: 
+2025-09-21T03:37:36: [INFO] Rows older than 30d: 0
+2025-09-21T03:37:36: 
+2025-09-21T03:37:36: [OK] Deleted rows: 0
+2025-09-21T03:37:36: [OK] Rows remaining: 105995
+2025-09-21T03:37:36: [INFO] Now (UTC):      2025-09-20T22:07:36.332973+00:00
+2025-09-21T03:37:36: [INFO] Max age (days): 30
+2025-09-21T03:37:36: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:37:36: [INFO] Total rows: 105995
+2025-09-21T03:37:36: 
+2025-09-21T03:37:36: [INFO] Rows older than 30d: 0
+2025-09-21T03:37:36: [OK] Deleted rows: 0
+2025-09-21T03:37:36: 
+2025-09-21T03:37:36: [OK] Rows remaining: 105995
+2025-09-21T03:37:36: 
+2025-09-21T03:37:36: [INFO] Now (UTC):      2025-09-20T22:07:36.406601+00:00
+2025-09-21T03:37:36: [INFO] Max age (days): 30
+2025-09-21T03:37:36: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:37:36: [INFO] Total rows: 105995
+2025-09-21T03:37:36: [INFO] Rows older than 30d: 0
+2025-09-21T03:37:36: [OK] Deleted rows: 0
+2025-09-21T03:37:36: [OK] Rows remaining: 105995
+2025-09-21T03:37:36: [INFO] Now (UTC):      2025-09-20T22:07:36.511756+00:00
+2025-09-21T03:37:36: [INFO] Max age (days): 30
+2025-09-21T03:37:36: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:37:36: [INFO] Total rows: 105995
+2025-09-21T03:37:36: 
+2025-09-21T03:37:36: [INFO] Rows older than 30d: 0
+2025-09-21T03:37:36: [OK] Deleted rows: 0
+2025-09-21T03:37:36: 
+2025-09-21T03:37:36: [OK] Rows remaining: 105995
+2025-09-21T03:37:36: 
+2025-09-21T03:37:36: [INFO] Now (UTC):      2025-09-20T22:07:36.608844+00:00
+2025-09-21T03:37:36: [INFO] Max age (days): 30
+2025-09-21T03:37:36: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:37:36: [INFO] Total rows: 105995
+2025-09-21T03:37:36: [INFO] Rows older than 30d: 0
+2025-09-21T03:37:36: [OK] Deleted rows: 0
+2025-09-21T03:37:36: [OK] Rows remaining: 105995
+2025-09-21T03:37:36: [INFO] Now (UTC):      2025-09-20T22:07:36.680579+00:00
+2025-09-21T03:37:36: [INFO] Max age (days): 30
+2025-09-21T03:37:36: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:37:36: [INFO] Total rows: 105995
+2025-09-21T03:37:36: [INFO] Rows older than 30d: 0
+2025-09-21T03:37:36: [OK] Deleted rows: 0
+2025-09-21T03:37:36: [OK] Rows remaining: 105995
+2025-09-21T03:37:36: [INFO] Now (UTC):      2025-09-20T22:07:36.751376+00:00
+2025-09-21T03:37:36: [INFO] Max age (days): 30
+2025-09-21T03:37:36: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:37:36: [INFO] Total rows: 105995
+2025-09-21T03:37:36: [INFO] Rows older than 30d: 0
+2025-09-21T03:37:36: [OK] Deleted rows: 0
+2025-09-21T03:37:36: [OK] Rows remaining: 105995
+2025-09-21T03:37:36: [INFO] Now (UTC):      2025-09-20T22:07:36.804145+00:00
+2025-09-21T03:37:36: [INFO] Max age (days): 30
+2025-09-21T03:37:36: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:37:36: [INFO] Total rows: 105995
+2025-09-21T03:37:36: [INFO] Rows older than 30d: 0
+2025-09-21T03:37:36: [OK] Deleted rows: 0
+2025-09-21T03:37:36: [OK] Rows remaining: 105995
+2025-09-21T03:37:36: [INFO] Now (UTC):      2025-09-20T22:07:36.852602+00:00
+2025-09-21T03:37:36: [INFO] Max age (days): 30
+2025-09-21T03:37:36: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:37:36: [INFO] Total rows: 105995
+2025-09-21T03:37:36: [INFO] Rows older than 30d: 0
+2025-09-21T03:37:36: [OK] Deleted rows: 0
+2025-09-21T03:37:36: [OK] Rows remaining: 105995
+2025-09-21T03:51:15: [INFO] Now (UTC):      2025-09-20T22:21:15.544600+00:00
+2025-09-21T03:51:15: [INFO] Max age (days): 30
+2025-09-21T03:51:15: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:51:15: [INFO] Total rows: 109114
+2025-09-21T03:51:15: [INFO] Rows older than 30d: 1
+2025-09-21T03:51:15: [OK] Deleted rows: 1
+2025-09-21T03:51:15: [OK] Rows remaining: 109113
+2025-09-21T03:51:15: [INFO] Now (UTC):      2025-09-20T22:21:15.605838+00:00
+2025-09-21T03:51:15: [INFO] Max age (days): 30
+2025-09-21T03:51:15: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:51:15: [INFO] Total rows: 109113
+2025-09-21T03:51:15: [INFO] Rows older than 30d: 0
+2025-09-21T03:51:15: [OK] Deleted rows: 0
+2025-09-21T03:51:15: [OK] Rows remaining: 109113
+2025-09-21T03:51:15: [INFO] Now (UTC):      2025-09-20T22:21:15.657196+00:00
+2025-09-21T03:51:15: [INFO] Max age (days): 30
+2025-09-21T03:51:15: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:51:15: [INFO] Total rows: 109113
+2025-09-21T03:51:15: [INFO] Rows older than 30d: 0
+2025-09-21T03:51:15: [OK] Deleted rows: 0
+2025-09-21T03:51:15: [OK] Rows remaining: 109113
+2025-09-21T03:51:15: [INFO] Now (UTC):      2025-09-20T22:21:15.704056+00:00
+2025-09-21T03:51:15: [INFO] Max age (days): 30
+2025-09-21T03:51:15: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:51:15: [INFO] Total rows: 109113
+2025-09-21T03:51:15: [INFO] Rows older than 30d: 0
+2025-09-21T03:51:15: [OK] Deleted rows: 0
+2025-09-21T03:51:15: [OK] Rows remaining: 109113
+2025-09-21T03:51:15: [INFO] Now (UTC):      2025-09-20T22:21:15.752013+00:00
+2025-09-21T03:51:15: [INFO] Max age (days): 30
+2025-09-21T03:51:15: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:51:15: [INFO] Total rows: 109113
+2025-09-21T03:51:15: [INFO] Rows older than 30d: 0
+2025-09-21T03:51:15: [OK] Deleted rows: 0
+2025-09-21T03:51:15: [OK] Rows remaining: 109113
+2025-09-21T03:51:15: [INFO] Now (UTC):      2025-09-20T22:21:15.798503+00:00
+2025-09-21T03:51:15: [INFO] Max age (days): 30
+2025-09-21T03:51:15: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:51:15: [INFO] Total rows: 109113
+2025-09-21T03:51:15: [INFO] Rows older than 30d: 0
+2025-09-21T03:51:15: [OK] Deleted rows: 0
+2025-09-21T03:51:15: [OK] Rows remaining: 109113
+2025-09-21T03:51:15: [INFO] Now (UTC):      2025-09-20T22:21:15.844672+00:00
+2025-09-21T03:51:15: [INFO] Max age (days): 30
+2025-09-21T03:51:15: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:51:15: [INFO] Total rows: 109113
+2025-09-21T03:51:15: [INFO] Rows older than 30d: 0
+2025-09-21T03:51:15: [OK] Deleted rows: 0
+2025-09-21T03:51:15: [OK] Rows remaining: 109113
+2025-09-21T03:51:15: [INFO] Now (UTC):      2025-09-20T22:21:15.901992+00:00
+2025-09-21T03:51:15: [INFO] Max age (days): 30
+2025-09-21T03:51:15: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:51:15: [INFO] Total rows: 109113
+2025-09-21T03:51:15: [INFO] Rows older than 30d: 0
+2025-09-21T03:51:15: [OK] Deleted rows: 0
+2025-09-21T03:51:15: [OK] Rows remaining: 109113
+2025-09-21T03:51:16: [INFO] Now (UTC):      2025-09-20T22:21:16.024367+00:00
+2025-09-21T03:51:16: 
+2025-09-21T03:51:16: [INFO] Max age (days): 30
+2025-09-21T03:51:16: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:51:16: [INFO] Total rows: 109113
+2025-09-21T03:51:16: [INFO] Rows older than 30d: 0
+2025-09-21T03:51:16: [OK] Deleted rows: 0
+2025-09-21T03:51:16: [OK] Rows remaining: 109113
+2025-09-21T03:51:16: [INFO] Now (UTC):      2025-09-20T22:21:16.106849+00:00
+2025-09-21T03:51:16: [INFO] Max age (days): 30
+2025-09-21T03:51:16: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:51:16: [INFO] Total rows: 109113
+2025-09-21T03:51:16: [INFO] Rows older than 30d: 0
+2025-09-21T03:51:16: [OK] Deleted rows: 0
+2025-09-21T03:51:16: [OK] Rows remaining: 109113
+2025-09-21T03:51:16: [INFO] Now (UTC):      2025-09-20T22:21:16.173143+00:00
+2025-09-21T03:51:16: [INFO] Max age (days): 30
+2025-09-21T03:51:16: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:51:16: [INFO] Total rows: 109113
+2025-09-21T03:51:16: [INFO] Rows older than 30d: 0
+2025-09-21T03:51:16: [OK] Deleted rows: 0
+2025-09-21T03:51:16: [OK] Rows remaining: 109113
+2025-09-21T03:51:16: [INFO] Now (UTC):      2025-09-20T22:21:16.236864+00:00
+2025-09-21T03:51:16: [INFO] Max age (days): 30
+2025-09-21T03:51:16: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:51:16: [INFO] Total rows: 109113
+2025-09-21T03:51:16: [INFO] Rows older than 30d: 0
+2025-09-21T03:51:16: [OK] Deleted rows: 0
+2025-09-21T03:51:16: [OK] Rows remaining: 109113
+2025-09-21T03:51:16: [INFO] Now (UTC):      2025-09-20T22:21:16.302492+00:00
+2025-09-21T03:51:16: [INFO] Max age (days): 30
+2025-09-21T03:51:16: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:51:16: [INFO] Total rows: 109113
+2025-09-21T03:51:16: [INFO] Rows older than 30d: 0
+2025-09-21T03:51:16: [OK] Deleted rows: 0
+2025-09-21T03:51:16: [OK] Rows remaining: 109113
+2025-09-21T03:51:16: [INFO] Now (UTC):      2025-09-20T22:21:16.356050+00:00
+2025-09-21T03:51:16: [INFO] Max age (days): 30
+2025-09-21T03:51:16: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:51:16: [INFO] Total rows: 109113
+2025-09-21T03:51:16: [INFO] Rows older than 30d: 0
+2025-09-21T03:51:16: [OK] Deleted rows: 0
+2025-09-21T03:51:16: [OK] Rows remaining: 109113
+2025-09-21T03:51:16: [INFO] Now (UTC):      2025-09-20T22:21:16.403801+00:00
+2025-09-21T03:51:16: [INFO] Max age (days): 30
+2025-09-21T03:51:16: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:51:16: [INFO] Total rows: 109113
+2025-09-21T03:51:16: [INFO] Rows older than 30d: 0
+2025-09-21T03:51:16: [OK] Deleted rows: 0
+2025-09-21T03:51:16: [OK] Rows remaining: 109113
+2025-09-21T03:51:16: [INFO] Now (UTC):      2025-09-20T22:21:16.454567+00:00
+2025-09-21T03:51:16: [INFO] Max age (days): 30
+2025-09-21T03:51:16: [INFO] Cutoff bucket:  487726 -> 2025-08-21T22:00:00+00:00 (rows older than this will be deleted)
+2025-09-21T03:51:16: [INFO] Total rows: 109113
+2025-09-21T03:51:16: [INFO] Rows older than 30d: 0
+2025-09-21T03:51:16: [OK] Deleted rows: 0
+2025-09-21T03:51:16: [OK] Rows remaining: 109113
+2025-11-06T02:08:19: [INFO] Now (UTC):      2025-11-05T20:38:19.244451+00:00
+2025-11-06T02:08:19: [INFO] Max age (days): 30
+2025-11-06T02:08:19: [INFO] Cutoff bucket:  488828 -> 2025-10-06T20:00:00+00:00 (rows older than this will be deleted)
+2025-11-06T02:08:19: [INFO] Total rows: 110320
+2025-11-06T02:08:19: [INFO] Rows older than 30d: 110320
+2025-11-06T02:08:30: [OK] Deleted rows: 110320
+2025-11-06T02:08:30: [OK] Rows remaining: 0

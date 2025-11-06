@@ -1,0 +1,208 @@
+2025-09-21T03:32:04: Traceback (most recent call last):
+2025-09-21T03:32:04:   File "/home/anirudh/developer-docs/data-universe-final/twitter_suite/cli.py", line 1050, in <module>
+2025-09-21T03:32:04:     main()
+2025-09-21T03:32:04:   File "/home/anirudh/developer-docs/data-universe-final/twitter_suite/cli.py", line 1011, in main
+2025-09-21T03:32:04:     ap_report.add_argument("--pool", type=str, default=str(PROJECT_ROOT / "scripts" / "cache" / "twscrape_refresh.db"))
+2025-09-21T03:32:04:   File "/usr/lib/python3.10/argparse.py", line 1460, in add_argument
+2025-09-21T03:32:04:     return self._add_action(action)
+2025-09-21T03:32:04:   File "/usr/lib/python3.10/argparse.py", line 1826, in _add_action
+2025-09-21T03:32:04:     self._optionals._add_action(action)
+2025-09-21T03:32:04:   File "/usr/lib/python3.10/argparse.py", line 1662, in _add_action
+2025-09-21T03:32:04:     action = super(_ArgumentGroup, self)._add_action(action)
+2025-09-21T03:32:04:   File "/usr/lib/python3.10/argparse.py", line 1474, in _add_action
+2025-09-21T03:32:04:     self._check_conflict(action)
+2025-09-21T03:32:04:   File "/usr/lib/python3.10/argparse.py", line 1611, in _check_conflict
+2025-09-21T03:32:04:     conflict_handler(action, confl_optionals)
+2025-09-21T03:32:04:   File "/usr/lib/python3.10/argparse.py", line 1620, in _handle_conflict_error
+2025-09-21T03:32:04:     raise ArgumentError(action, message % conflict_string)
+2025-09-21T03:32:04: argparse.ArgumentError: argument --pool: conflicting option string: --pool
+2025-09-21T03:32:05: Traceback (most recent call last):
+2025-09-21T03:32:05:   File "/home/anirudh/developer-docs/data-universe-final/twitter_suite/cli.py", line 1050, in <module>
+2025-09-21T03:32:05:     main()
+2025-09-21T03:32:05:   File "/home/anirudh/developer-docs/data-universe-final/twitter_suite/cli.py", line 1011, in main
+2025-09-21T03:32:05:     ap_report.add_argument("--pool", type=str, default=str(PROJECT_ROOT / "scripts" / "cache" / "twscrape_refresh.db"))
+2025-09-21T03:32:05:   File "/usr/lib/python3.10/argparse.py", line 1460, in add_argument
+2025-09-21T03:32:05:     return self._add_action(action)
+2025-09-21T03:32:05:   File "/usr/lib/python3.10/argparse.py", line 1826, in _add_action
+2025-09-21T03:32:05:     self._optionals._add_action(action)
+2025-09-21T03:32:05:   File "/usr/lib/python3.10/argparse.py", line 1662, in _add_action
+2025-09-21T03:32:05:     action = super(_ArgumentGroup, self)._add_action(action)
+2025-09-21T03:32:05:   File "/usr/lib/python3.10/argparse.py", line 1474, in _add_action
+2025-09-21T03:32:05:     self._check_conflict(action)
+2025-09-21T03:32:05:   File "/usr/lib/python3.10/argparse.py", line 1611, in _check_conflict
+2025-09-21T03:32:05:     conflict_handler(action, confl_optionals)
+2025-09-21T03:32:05:   File "/usr/lib/python3.10/argparse.py", line 1620, in _handle_conflict_error
+2025-09-21T03:32:05:     raise ArgumentError(action, message % conflict_string)
+2025-09-21T03:32:05: argparse.ArgumentError: argument --pool: conflicting option string: --pool
+2025-09-21T03:37:37: sys:1: RuntimeWarning: coroutine '_fetch_trending_twitter_hashtags_via_pool_async' was never awaited
+2025-09-21T03:37:37: RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+2025-09-21T03:38:41: sys:1: RuntimeWarning: coroutine '_fetch_trending_twitter_hashtags_via_pool_async' was never awaited
+2025-09-21T03:38:41: RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+2025-09-21T03:39:44: sys:1: RuntimeWarning: coroutine '_fetch_trending_twitter_hashtags_via_pool_async' was never awaited
+2025-09-21T03:39:44: RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+2025-09-21T03:40:47: sys:1: RuntimeWarning: coroutine '_fetch_trending_twitter_hashtags_via_pool_async' was never awaited
+2025-09-21T03:40:47: RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+2025-09-21T03:41:49: sys:1: RuntimeWarning: coroutine '_fetch_trending_twitter_hashtags_via_pool_async' was never awaited
+2025-09-21T03:41:49: RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+2025-09-21T03:42:52: sys:1: RuntimeWarning: coroutine '_fetch_trending_twitter_hashtags_via_pool_async' was never awaited
+2025-09-21T03:42:52: RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+2025-09-21T03:43:56: Traceback (most recent call last):
+2025-09-21T03:43:56:   File "/home/anirudh/developer-docs/data-universe-final/twitter_suite/cli.py", line 1043, in <module>
+2025-09-21T03:43:56:     main()
+2025-09-21T03:43:56:   File "/home/anirudh/developer-docs/data-universe-final/twitter_suite/cli.py", line 1009, in main
+2025-09-21T03:43:56:     ap_accept.add_argument("--accounts-in", type=str, default="twitter/X_scrapping/twitteracc.txt")
+2025-09-21T03:43:56: UnboundLocalError: local variable 'ap_accept' referenced before assignment
+2025-09-21T03:43:57: Traceback (most recent call last):
+2025-09-21T03:43:57:   File "/home/anirudh/developer-docs/data-universe-final/twitter_suite/cli.py", line 1043, in <module>
+2025-09-21T03:43:57:     main()
+2025-09-21T03:43:57:   File "/home/anirudh/developer-docs/data-universe-final/twitter_suite/cli.py", line 1009, in main
+2025-09-21T03:43:57:     ap_accept.add_argument("--accounts-in", type=str, default="twitter/X_scrapping/twitteracc.txt")
+2025-09-21T03:43:57: UnboundLocalError: local variable 'ap_accept' referenced before assignment
+2025-09-21T03:44:37: Traceback (most recent call last):
+2025-09-21T03:44:37:   File "/home/anirudh/developer-docs/data-universe-final/twitter_suite/cli.py", line 1043, in <module>
+2025-09-21T03:44:37:     main()
+2025-09-21T03:44:37:   File "/home/anirudh/developer-docs/data-universe-final/twitter_suite/cli.py", line 1009, in main
+2025-09-21T03:44:37:     ap_accept.add_argument("--accounts-in", type=str, default="twitter/X_scrapping/twitteracc.txt")
+2025-09-21T03:44:37: UnboundLocalError: local variable 'ap_accept' referenced before assignment
+2025-09-21T03:44:39: Traceback (most recent call last):
+2025-09-21T03:44:39:   File "/home/anirudh/developer-docs/data-universe-final/twitter_suite/cli.py", line 1043, in <module>
+2025-09-21T03:44:39:     main()
+2025-09-21T03:44:39:   File "/home/anirudh/developer-docs/data-universe-final/twitter_suite/cli.py", line 1009, in main
+2025-09-21T03:44:39:     ap_accept.add_argument("--accounts-in", type=str, default="twitter/X_scrapping/twitteracc.txt")
+2025-09-21T03:44:39: UnboundLocalError: local variable 'ap_accept' referenced before assignment
+2025-09-21T03:45:41: sys:1: RuntimeWarning: coroutine '_fetch_trending_twitter_hashtags_via_pool_async' was never awaited
+2025-09-21T03:45:41: RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+2025-09-21T03:45:42: Traceback (most recent call last):
+2025-09-21T03:45:42:   File "/home/anirudh/developer-docs/data-universe-final/twitter_suite/cli.py", line 1041, in <module>
+2025-09-21T03:45:42:     main()
+2025-09-21T03:45:42:   File "/home/anirudh/developer-docs/data-universe-final/twitter_suite/cli.py", line 1037, in main
+2025-09-21T03:45:42:     asyncio.run(args.func(args))
+2025-09-21T03:45:42:   File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+2025-09-21T03:45:42:     return loop.run_until_complete(main)
+2025-09-21T03:45:42:   File "/usr/lib/python3.10/asyncio/base_events.py", line 649, in run_until_complete
+2025-09-21T03:45:42:     return future.result()
+2025-09-21T03:45:42:   File "/home/anirudh/developer-docs/data-universe-final/twitter_suite/cli.py", line 779, in cmd_batch_targets
+2025-09-21T03:45:42:     s_since, s_until = _compute_window(getattr(args, "since", ""), getattr(args, "until", ""), getattr(args, "max_age_days", 30))
+2025-09-21T03:45:42: NameError: name '_compute_window' is not defined
+2025-09-21T03:46:14: sys:1: RuntimeWarning: coroutine '_fetch_trending_twitter_hashtags_via_pool_async' was never awaited
+2025-09-21T03:46:14: RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+2025-09-21T03:46:16: Traceback (most recent call last):
+2025-09-21T03:46:16:   File "/home/anirudh/developer-docs/data-universe-final/twitter_suite/cli.py", line 1041, in <module>
+2025-09-21T03:46:16:     main()
+2025-09-21T03:46:16:   File "/home/anirudh/developer-docs/data-universe-final/twitter_suite/cli.py", line 1037, in main
+2025-09-21T03:46:16:     asyncio.run(args.func(args))
+2025-09-21T03:46:16:   File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+2025-09-21T03:46:16:     return loop.run_until_complete(main)
+2025-09-21T03:46:16:   File "/usr/lib/python3.10/asyncio/base_events.py", line 649, in run_until_complete
+2025-09-21T03:46:16:     return future.result()
+2025-09-21T03:46:16:   File "/home/anirudh/developer-docs/data-universe-final/twitter_suite/cli.py", line 779, in cmd_batch_targets
+2025-09-21T03:46:16:     s_since, s_until = _compute_window(getattr(args, "since", ""), getattr(args, "until", ""), getattr(args, "max_age_days", 30))
+2025-09-21T03:46:16: NameError: name '_compute_window' is not defined
+2025-09-21T03:47:18: sys:1: RuntimeWarning: coroutine '_fetch_trending_twitter_hashtags_via_pool_async' was never awaited
+2025-09-21T03:47:18: RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+2025-09-21T03:47:19: Traceback (most recent call last):
+2025-09-21T03:47:19:   File "/home/anirudh/developer-docs/data-universe-final/twitter_suite/cli.py", line 1041, in <module>
+2025-09-21T03:47:19:     main()
+2025-09-21T03:47:19:   File "/home/anirudh/developer-docs/data-universe-final/twitter_suite/cli.py", line 1037, in main
+2025-09-21T03:47:19:     asyncio.run(args.func(args))
+2025-09-21T03:47:19:   File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+2025-09-21T03:47:19:     return loop.run_until_complete(main)
+2025-09-21T03:47:19:   File "/usr/lib/python3.10/asyncio/base_events.py", line 649, in run_until_complete
+2025-09-21T03:47:19:     return future.result()
+2025-09-21T03:47:19:   File "/home/anirudh/developer-docs/data-universe-final/twitter_suite/cli.py", line 779, in cmd_batch_targets
+2025-09-21T03:47:19:     s_since, s_until = _compute_window(getattr(args, "since", ""), getattr(args, "until", ""), getattr(args, "max_age_days", 30))
+2025-09-21T03:47:19: NameError: name '_compute_window' is not defined
+2025-09-21T03:48:47: Traceback (most recent call last):
+2025-09-21T03:48:47:   File "/home/anirudh/developer-docs/data-universe-final/twitter_suite/cli.py", line 1045, in <module>
+2025-09-21T03:48:47:     main()
+2025-09-21T03:48:47:   File "/home/anirudh/developer-docs/data-universe-final/twitter_suite/cli.py", line 1041, in main
+2025-09-21T03:48:47:     asyncio.run(args.func(args))
+2025-09-21T03:48:47:   File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+2025-09-21T03:48:47:     return loop.run_until_complete(main)
+2025-09-21T03:48:47:   File "/usr/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+2025-09-21T03:48:47:     self.run_forever()
+2025-09-21T03:48:47:   File "/usr/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+2025-09-21T03:48:47:     self._run_once()
+2025-09-21T03:48:47:   File "/usr/lib/python3.10/asyncio/base_events.py", line 1871, in _run_once
+2025-09-21T03:48:47:     event_list = self._selector.select(timeout)
+2025-09-21T03:48:47:   File "/usr/lib/python3.10/selectors.py", line 469, in select
+2025-09-21T03:48:47:     fd_event_list = self._selector.poll(timeout, max_ev)
+2025-09-21T03:48:47: KeyboardInterrupt
+2025-09-21T03:51:15: Traceback (most recent call last):
+2025-09-21T03:51:15:   File "/home/anirudh/developer-docs/data-universe-final/twitter_suite/cli.py", line 1045, in <module>
+2025-09-21T03:51:15:     main()
+2025-09-21T03:51:15:   File "/home/anirudh/developer-docs/data-universe-final/twitter_suite/cli.py", line 1041, in main
+2025-09-21T03:51:15:     asyncio.run(args.func(args))
+2025-09-21T03:51:15:   File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+2025-09-21T03:51:15:     return loop.run_until_complete(main)
+2025-09-21T03:51:15:   File "/usr/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+2025-09-21T03:51:15:     self.run_forever()
+2025-09-21T03:51:15:   File "/usr/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+2025-09-21T03:51:15:     self._run_once()
+2025-09-21T03:51:15:   File "/usr/lib/python3.10/asyncio/base_events.py", line 1871, in _run_once
+2025-09-21T03:51:15:     event_list = self._selector.select(timeout)
+2025-09-21T03:51:15:   File "/usr/lib/python3.10/selectors.py", line 469, in select
+2025-09-21T03:51:15:     fd_event_list = self._selector.poll(timeout, max_ev)
+2025-09-21T03:51:15: KeyboardInterrupt
+2025-09-21T03:54:13: 2025-09-21 03:54:13.939 | WARNING  | twscrape.queue_client:_check_rep:239 - API unknown error: 200 - 15/50 - AleshaBuse13285 - (0) Not found
+2025-11-06T02:08:28: 2025-11-06 02:08:28.234 | WARNING  | twscrape.queue_client:_check_rep:205 - Ban detected: 200 - 49/50 - AcreeTheo80573 - (326) Authorization: Denied by access control: To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.
+2025-11-06T02:08:30: 2025-11-06 02:08:30.090 | WARNING  | twscrape.queue_client:_check_rep:205 - Ban detected: 200 - 49/50 - AdensRache85074 - (326) Authorization: Denied by access control: To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.
+2025-11-06T02:09:14: Traceback (most recent call last):
+2025-11-06T02:09:14:   File "/home/anirudh/Desktop/data-universe-final/twitter_suite/cli.py", line 1045, in <module>
+2025-11-06T02:09:14:     main()
+2025-11-06T02:09:14:   File "/home/anirudh/Desktop/data-universe-final/twitter_suite/cli.py", line 1041, in main
+2025-11-06T02:09:14:     asyncio.run(args.func(args))
+2025-11-06T02:09:14:   File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+2025-11-06T02:09:14:     return loop.run_until_complete(main)
+2025-11-06T02:09:14:   File "/usr/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+2025-11-06T02:09:14:     self.run_forever()
+2025-11-06T02:09:14:   File "/usr/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+2025-11-06T02:09:14:     self._run_once()
+2025-11-06T02:09:14:   File "/usr/lib/python3.10/asyncio/base_events.py", line 1871, in _run_once
+2025-11-06T02:09:14:     event_list = self._selector.select(timeout)
+2025-11-06T02:09:14:   File "/usr/lib/python3.10/selectors.py", line 469, in select
+2025-11-06T02:09:14:     fd_event_list = self._selector.poll(timeout, max_ev)
+2025-11-06T02:09:14: KeyboardInterrupt
+2025-11-06T02:10:09: 2025-11-06 02:10:09.868 | WARNING  | twscrape.queue_client:_check_rep:205 - Ban detected: 200 - 49/50 - AlfonzoMcc34572 - (326) Authorization: Denied by access control: To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.
+2025-11-06T02:10:45: 2025-11-06 02:10:45.671 | WARNING  | twscrape.queue_client:_check_rep:205 - Ban detected: 200 - 45/50 - AlsheimerE28785 - (326) Authorization: Denied by access control: To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.
+2025-11-06T02:11:46: 2025-11-06 02:11:46.847 | WARNING  | twscrape.queue_client:_check_rep:205 - Ban detected: 200 - 48/50 - AngelettiC67125 - (326) Authorization: Denied by access control: To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.
+2025-11-06T02:11:58: 2025-11-06 02:11:58.687 | WARNING  | twscrape.queue_client:_check_rep:205 - Ban detected: 200 - 49/50 - AngellaChi20056 - (326) Authorization: Denied by access control: To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.
+2025-11-06T02:12:05: 2025-11-06 02:12:05.494 | WARNING  | twscrape.queue_client:_check_rep:205 - Ban detected: 200 - 49/50 - AntioneB54354 - (326) Authorization: Denied by access control: To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.
+2025-11-06T02:12:07: 2025-11-06 02:12:07.284 | WARNING  | twscrape.queue_client:_check_rep:205 - Ban detected: 200 - 49/50 - AntonGoree86836 - (326) Authorization: Denied by access control: To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.
+2025-11-06T02:12:09: 2025-11-06 02:12:09.055 | WARNING  | twscrape.queue_client:_check_rep:205 - Ban detected: 200 - 49/50 - ArdithS16501 - (326) Authorization: Denied by access control: To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.
+2025-11-06T02:12:10: 2025-11-06 02:12:10.936 | WARNING  | twscrape.queue_client:_check_rep:205 - Ban detected: 200 - 49/50 - ArmandoGor41379 - (326) Authorization: Denied by access control: To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.
+2025-11-06T02:12:45: 2025-11-06 02:12:45.856 | WARNING  | twscrape.queue_client:_check_rep:205 - Ban detected: 200 - 49/50 - BonannoMit3247 - (326) Authorization: Denied by access control: To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.
+2025-11-06T02:13:41: 2025-11-06 02:13:41.791 | WARNING  | twscrape.queue_client:_check_rep:205 - Ban detected: 200 - 48/50 - BreannaLin58557 - (326) Authorization: Denied by access control: To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.
+2025-11-06T02:14:51: 2025-11-06 02:14:51.663 | WARNING  | twscrape.queue_client:_check_rep:205 - Ban detected: 200 - 45/50 - BrooksFaub40198 - (326) Authorization: Denied by access control: To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.
+2025-11-06T02:15:02: 2025-11-06 02:15:02.306 | WARNING  | twscrape.queue_client:_check_rep:205 - Ban detected: 200 - 49/50 - BynesGilbe84679 - (326) Authorization: Denied by access control: To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.
+2025-11-06T02:15:15: 2025-11-06 02:15:15.240 | WARNING  | twscrape.queue_client:_check_rep:205 - Ban detected: 200 - 48/50 - CarisaFedd61341 - (326) Authorization: Denied by access control: To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.
+2025-11-06T02:15:26: 2025-11-06 02:15:26.701 | WARNING  | twscrape.queue_client:_check_rep:205 - Ban detected: 200 - 49/50 - CassidyBer85226 - (326) Authorization: Denied by access control: To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.
+2025-11-06T02:15:30: 2025-11-06 02:15:30.923 | WARNING  | twscrape.queue_client:_check_rep:205 - Ban detected: 200 - 49/50 - CCovotta17859 - (326) Authorization: Denied by access control: To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.
+2025-11-06T02:15:45: 2025-11-06 02:15:45.584 | WARNING  | twscrape.queue_client:_check_rep:205 - Ban detected: 200 - 47/50 - CedrickGav91222 - (326) Authorization: Denied by access control: To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.
+2025-11-06T02:16:08: 2025-11-06 02:16:08.380 | WARNING  | twscrape.queue_client:_check_rep:205 - Ban detected: 200 - 48/50 - CharlottCr74786 - (326) Authorization: Denied by access control: To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.
+2025-11-06T02:16:25: Traceback (most recent call last):
+2025-11-06T02:16:25:   File "/home/anirudh/Desktop/data-universe-final/twitter_suite/cli.py", line 1045, in <module>
+2025-11-06T02:16:25:     main()
+2025-11-06T02:16:25:   File "/home/anirudh/Desktop/data-universe-final/twitter_suite/cli.py", line 1041, in main
+2025-11-06T02:16:25:     asyncio.run(args.func(args))
+2025-11-06T02:16:25:   File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+2025-11-06T02:16:25:     return loop.run_until_complete(main)
+2025-11-06T02:16:25:   File "/usr/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+2025-11-06T02:16:25:     self.run_forever()
+2025-11-06T02:16:25:   File "/usr/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+2025-11-06T02:16:25:     self._run_once()
+2025-11-06T02:16:25:   File "/usr/lib/python3.10/asyncio/base_events.py", line 1871, in _run_once
+2025-11-06T02:16:25:     event_list = self._selector.select(timeout)
+2025-11-06T02:16:25:   File "/usr/lib/python3.10/selectors.py", line 469, in select
+2025-11-06T02:16:25:     fd_event_list = self._selector.poll(timeout, max_ev)
+2025-11-06T02:16:25: KeyboardInterrupt
+2025-11-06T02:19:02: 2025-11-06 02:19:02.882 | WARNING  | twscrape.queue_client:_check_rep:205 - Ban detected: 200 - 49/50 - ChinaKerst15194 - (326) Authorization: Denied by access control: To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.
+2025-11-06T02:19:22: 2025-11-06 02:19:22.219 | WARNING  | twscrape.queue_client:_check_rep:205 - Ban detected: 200 - 49/50 - ChrissDort2258 - (326) Authorization: Denied by access control: To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.
+2025-11-06T02:19:30: 2025-11-06 02:19:30.442 | WARNING  | twscrape.queue_client:_check_rep:205 - Ban detected: 200 - 49/50 - ChristiPfl60983 - (326) Authorization: Denied by access control: To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.
+2025-11-06T02:19:39: 2025-11-06 02:19:39.589 | WARNING  | twscrape.queue_client:_check_rep:205 - Ban detected: 200 - 49/50 - ClareToshi31808 - (326) Authorization: Denied by access control: To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.
+2025-11-06T02:21:25: 2025-11-06 02:21:25.476 | WARNING  | twscrape.queue_client:_check_rep:205 - Ban detected: 200 - 49/50 - CotroneoFa51263 - (326) Authorization: Denied by access control: To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.
+2025-11-06T02:23:31: 2025-11-06 02:23:31.428 | WARNING  | twscrape.queue_client:_check_rep:205 - Ban detected: 200 - 49/50 - CunananEdi71480 - (326) Authorization: Denied by access control: To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.
+2025-11-06T11:09:10: 2025-11-06 11:09:10.853 | WARNING  | twscrape.queue_client:_check_rep:205 - Ban detected: 200 - 49/50 - CustaTawan94861 - (326) Authorization: Denied by access control: To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.
+2025-11-06T11:09:27: 2025-11-06 11:09:27.263 | WARNING  | twscrape.queue_client:_check_rep:205 - Ban detected: 200 - 48/50 - DemoraFred38350 - (326) Authorization: Denied by access control: To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.
+2025-11-06T11:12:52: 2025-11-06 11:12:52.757 | WARNING  | twscrape.queue_client:_check_rep:205 - Ban detected: 200 - 49/50 - DepuydtWil83553 - (326) Authorization: Denied by access control: To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.
+2025-11-06T11:13:10: 2025-11-06 11:13:10.896 | WARNING  | twscrape.queue_client:_check_rep:205 - Ban detected: 200 - 49/50 - DomingaSam78893 - (326) Authorization: Denied by access control: To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.

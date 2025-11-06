@@ -1,0 +1,70 @@
+2025-09-20T04:06:23: 127.0.0.1 - - [20/Sep/2025 04:06:23] "HEAD / HTTP/1.1" 200 -
+2025-09-20T04:06:23: 127.0.0.1 - - [20/Sep/2025 04:06:23] "HEAD /SqliteMinerStorage_latest.sqlite HTTP/1.1" 200 -
+2025-09-20T04:08:20: 127.0.0.1 - - [20/Sep/2025 04:08:20] "GET / HTTP/1.1" 200 -
+2025-09-20T04:08:21: 127.0.0.1 - - [20/Sep/2025 04:08:21] code 404, message File not found
+2025-09-20T04:08:21: 127.0.0.1 - - [20/Sep/2025 04:08:21] "GET /favicon.ico HTTP/1.1" 404 -
+2025-09-20T04:08:27: 127.0.0.1 - - [20/Sep/2025 04:08:27] "GET /SqliteMinerStorage_20250919_223602.sqlite HTTP/1.1" 200 -
+2025-09-20T04:09:31: 127.0.0.1 - - [20/Sep/2025 04:09:31] "GET / HTTP/1.1" 200 -
+2025-09-20T04:09:40: 127.0.0.1 - - [20/Sep/2025 04:09:40] "GET /SqliteMinerStorage_20250919_223602.sqlite HTTP/1.1" 304 -
+2025-09-20T04:10:02: 127.0.0.1 - - [20/Sep/2025 04:10:02] "GET /SqliteMinerStorage_latest.sqlite HTTP/1.1" 200 -
+2025-09-20T04:10:56: 127.0.0.1 - - [20/Sep/2025 04:10:56] "GET / HTTP/1.1" 200 -
+2025-09-20T04:10:57: 127.0.0.1 - - [20/Sep/2025 04:10:57] code 404, message File not found
+2025-09-20T04:10:57: 127.0.0.1 - - [20/Sep/2025 04:10:57] "GET /favicon.ico HTTP/1.1" 404 -
+2025-09-20T04:11:00: 127.0.0.1 - - [20/Sep/2025 04:11:00] "GET /SqliteMinerStorage_20250919_223602.sqlite HTTP/1.1" 200 -
+2025-09-20T04:11:07: 127.0.0.1 - - [20/Sep/2025 04:11:07] "GET /SqliteMinerStorage_20250919_223602.sqlite HTTP/1.1" 200 -
+2025-09-20T04:11:07: ----------------------------------------
+2025-09-20T04:11:07: Exception occurred during processing of request from ('127.0.0.1', 60884)
+2025-09-20T04:11:07: Traceback (most recent call last):
+2025-09-20T04:11:07:   File "/usr/lib/python3.10/socketserver.py", line 316, in _handle_request_noblock
+2025-09-20T04:11:07:     self.process_request(request, client_address)
+2025-09-20T04:11:07:   File "/usr/lib/python3.10/socketserver.py", line 347, in process_request
+2025-09-20T04:11:07:     self.finish_request(request, client_address)
+2025-09-20T04:11:07:   File "/usr/lib/python3.10/socketserver.py", line 360, in finish_request
+2025-09-20T04:11:07:     self.RequestHandlerClass(request, client_address, self)
+2025-09-20T04:11:07:   File "/usr/lib/python3.10/http/server.py", line 668, in __init__
+2025-09-20T04:11:07:     super().__init__(*args, **kwargs)
+2025-09-20T04:11:07:   File "/usr/lib/python3.10/socketserver.py", line 747, in __init__
+2025-09-20T04:11:07:     self.handle()
+2025-09-20T04:11:07:   File "/usr/lib/python3.10/http/server.py", line 433, in handle
+2025-09-20T04:11:07:     self.handle_one_request()
+2025-09-20T04:11:07:   File "/usr/lib/python3.10/http/server.py", line 421, in handle_one_request
+2025-09-20T04:11:07:     method()
+2025-09-20T04:11:07:   File "/usr/lib/python3.10/http/server.py", line 675, in do_GET
+2025-09-20T04:11:07:     self.copyfile(f, self.wfile)
+2025-09-20T04:11:07:   File "/usr/lib/python3.10/http/server.py", line 875, in copyfile
+2025-09-20T04:11:07:     shutil.copyfileobj(source, outputfile)
+2025-09-20T04:11:07:   File "/usr/lib/python3.10/shutil.py", line 198, in copyfileobj
+2025-09-20T04:11:07:     fdst_write(buf)
+2025-09-20T04:11:07:   File "/usr/lib/python3.10/socketserver.py", line 826, in write
+2025-09-20T04:11:07:     self._sock.sendall(b)
+2025-09-20T04:11:07: ConnectionResetError: [Errno 104] Connection reset by peer
+2025-09-20T04:11:07: ----------------------------------------
+2025-09-20T04:11:07: 127.0.0.1 - - [20/Sep/2025 04:11:07] "GET /SqliteMinerStorage_20250919_223602.sqlite HTTP/1.1" 200 -
+2025-09-20T04:11:07: ----------------------------------------
+2025-09-20T04:11:07: Exception occurred during processing of request from ('127.0.0.1', 60882)
+2025-09-20T04:11:07: Traceback (most recent call last):
+2025-09-20T04:11:07:   File "/usr/lib/python3.10/socketserver.py", line 316, in _handle_request_noblock
+2025-09-20T04:11:07:     self.process_request(request, client_address)
+2025-09-20T04:11:07:   File "/usr/lib/python3.10/socketserver.py", line 347, in process_request
+2025-09-20T04:11:07:     self.finish_request(request, client_address)
+2025-09-20T04:11:07:   File "/usr/lib/python3.10/socketserver.py", line 360, in finish_request
+2025-09-20T04:11:07:     self.RequestHandlerClass(request, client_address, self)
+2025-09-20T04:11:07:   File "/usr/lib/python3.10/http/server.py", line 668, in __init__
+2025-09-20T04:11:07:     super().__init__(*args, **kwargs)
+2025-09-20T04:11:07:   File "/usr/lib/python3.10/socketserver.py", line 747, in __init__
+2025-09-20T04:11:07:     self.handle()
+2025-09-20T04:11:07:   File "/usr/lib/python3.10/http/server.py", line 433, in handle
+2025-09-20T04:11:07:     self.handle_one_request()
+2025-09-20T04:11:07:   File "/usr/lib/python3.10/http/server.py", line 421, in handle_one_request
+2025-09-20T04:11:07:     method()
+2025-09-20T04:11:07:   File "/usr/lib/python3.10/http/server.py", line 675, in do_GET
+2025-09-20T04:11:07:     self.copyfile(f, self.wfile)
+2025-09-20T04:11:07:   File "/usr/lib/python3.10/http/server.py", line 875, in copyfile
+2025-09-20T04:11:07:     shutil.copyfileobj(source, outputfile)
+2025-09-20T04:11:07:   File "/usr/lib/python3.10/shutil.py", line 198, in copyfileobj
+2025-09-20T04:11:07:     fdst_write(buf)
+2025-09-20T04:11:07:   File "/usr/lib/python3.10/socketserver.py", line 826, in write
+2025-09-20T04:11:07:     self._sock.sendall(b)
+2025-09-20T04:11:07: ConnectionResetError: [Errno 104] Connection reset by peer
+2025-09-20T04:11:07: ----------------------------------------
+2025-09-20T04:12:42: 127.0.0.1 - - [20/Sep/2025 04:12:42] "GET /SqliteMinerStorage_latest.sqlite.gz HTTP/1.1" 200 -
